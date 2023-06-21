@@ -1,4 +1,4 @@
-# MetabolicCageAnalysis
+# Metabolic Cage Analysis
 - Takes a .csv file from the CLAMS metabolic cage monitoring software (CLAX) and cleans and averages group data
 - Allows users to specify whether cages contain experimental or control mice.
 - Allows users to screen for and exclude system artifacts
