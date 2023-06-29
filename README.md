@@ -21,4 +21,5 @@
 7. Then it will graph group average data, saving all figures and extracted data. The program calculates group and individual averages from the data after removing artifacts, and also splits the data by light/dark cycle. All data is stored in full_metabolic_matrix.mat, and the data used for graphing is stored in full_graphing_variables.mat, for convenient import into data visualization software.
  ![group rer figure](https://github.com/SaraEBoyle/MetabolicCageAnalysis/assets/83416542/b0ab40ec-b43e-48e0-8d94-ff904d486f36)
   
+<img width="1022" alt="Screen Shot 2023-06-29 at 2 52 55 PM" src="https://github.com/SaraEBoyle/MetabolicCageAnalysis/assets/83416542/96521ee5-b366-4685-afb8-3065e1ac8df4">
 
